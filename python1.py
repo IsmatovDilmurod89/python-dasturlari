@@ -86,7 +86,14 @@
 # print(f"siz shu yilda tug'ilgansiz- {2025-yosh}-yil")
 # =============================================================================
 
-
+# =============================================================================
+# #Foydalanuvchi ismi va yoshiga qarab unga xabar chiqarish – masalan:
+# #"Salom, Ali! Siz 25 yoshdasiz."
+# ism = str(input("Ismingizni kiriting: "))
+# yosh = int(input("Tug'ilgan yilingizni kiriting: "))
+# 
+# print(f"Salom {ism} siz {2025-yosh} yoshdasiz")
+# ==================================================
 
 
 
