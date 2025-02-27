@@ -95,7 +95,19 @@
 # print(f"Salom {ism} siz {2025-yosh} yoshdasiz")
 # ==================================================
 
+#==============================================================================
+#Lug‘at yaratish
+#Lug‘atni ikki xil usulda yaratish mumkin:
 
+# 1-usul: figurali qavslar bilan
+#talaba = {"ism": "Ali", "yosh": 20, "kurs": 2}
+
+# 2-usul: dict() funksiyasi bilan
+#talaba2 = dict(ism="Vali", yosh=22, kurs=3)
+
+#print(talaba)  
+#print(talaba2)  
+#===============================================================================
 
 
 
