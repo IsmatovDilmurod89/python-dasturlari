@@ -120,7 +120,21 @@
 # print(talaba1)
 # =============================================================================
 
-
+# =============================================================================
+# # lug'atdan so'zlarni o'chirish
+# del talaba1['yosh']
+# print(talaba1) 
+# 
+# #uzun lug`atlarni qisqaroq qilish uchun 
+# #bir qator pastga tushirish
+# 
+# telefonlar = {
+#     'olim':'nokia',
+#     'vali':'samsung',
+#     'sali':'redmi',
+#     'qosim':'oppo'}
+# print(telefonlar)
+# =============================================================================
 
 
 
